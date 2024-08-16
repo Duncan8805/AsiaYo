@@ -5,15 +5,6 @@ public class Order
     public Address Address { get; set; }
     public decimal Price { get; set; }
     public string Currency { get; set; }
-
-    public Order(string id, string name, Address address, decimal price, string currency)
-    {
-        Id = id;
-        Name = name;
-        Address = address;
-        Price = price;
-        Currency = currency;
-    }
 }
 
 public class Address

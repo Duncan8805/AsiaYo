@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/duncan/Resp/AsisYoTest/order/order/order.csproj": {}
+    "/Users/duncan/Resp/AsiaYo/order/order.csproj": {}
   },
   "projects": {
-    "/Users/duncan/Resp/AsisYoTest/order/order/order.csproj": {
+    "/Users/duncan/Resp/AsiaYo/order/order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/duncan/Resp/AsisYoTest/order/order/order.csproj",
+        "projectUniqueName": "/Users/duncan/Resp/AsiaYo/order/order.csproj",
         "projectName": "order",
-        "projectPath": "/Users/duncan/Resp/AsisYoTest/order/order/order.csproj",
+        "projectPath": "/Users/duncan/Resp/AsiaYo/order/order.csproj",
         "packagesPath": "/Users/duncan/.nuget/packages/",
-        "outputPath": "/Users/duncan/Resp/AsisYoTest/order/order/obj/",
+        "outputPath": "/Users/duncan/Resp/AsiaYo/order/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/duncan/.nuget/NuGet/NuGet.Config"
